@@ -6,14 +6,14 @@ This is a landing website for an imaginary Online Education Company, Stonks Tuto
 Build a fully responsive landing page from scratch, using HTML, CSS and Bootstrap. This web page can be used to promote many different types of businesses, such as creative agencies or software houses. It can be for any existing company or for any imaginary company. 
 
 ## Functionalities
-•	The website must contain a responsive, customized NAVBAR.
-•	All the navbar items like HOME, ABOUT US, CONTACT US must be having corresponding sections inside of the webpage with relative content (text, images) inside all those sections with custom fonts and custom colors.
-•	The webpage must have a footer section at the bottom of the webpage.
-•	The webpage must contain images placed at appropriate custom positions 
-•	The webpage should have custom bootstrap buttons in appropriate custom positions like in the contact form.
-•	 The Entire Webpage should be responsive and display the contents in correct format for all screen sizes (Extra Small, Small, Medium, Large Screen Sizes). 
-•	The form once submitted must be redirected to a THANK YOU page with appropriate content.
-•	Try adding basic animations with the help of CSS ANIMATIONS inside the webpage.
+- The website must contain a responsive, customized NAVBAR.
+- All the navbar items like HOME, ABOUT US, CONTACT US must be having corresponding sections inside of the webpage with relative content (text, images) inside all those sections with custom fonts and custom colors.
+- The webpage must have a footer section at the bottom of the webpage.
+- The webpage must contain images placed at appropriate custom positions 
+- The webpage should have custom bootstrap buttons in appropriate custom positions like in the contact form.
+- The Entire Webpage should be responsive and display the contents in correct format for all screen sizes (Extra Small, Small, Medium, Large Screen Sizes). 
+- The form once submitted must be redirected to a THANK YOU page with appropriate content.
+- Try adding basic animations with the help of CSS ANIMATIONS inside the webpage.
 
 
 ## About the Project:
